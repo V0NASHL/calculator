@@ -18,7 +18,7 @@ input {
     height: 70px;
     font-size: 3rem;
     text-align: right;
-    background-color: #a7aaa6;
+    background-color: #dfe2e1;
 }
 
 .buttons {
@@ -40,4 +40,9 @@ button {
     font-weight: 900;
     background-color: #eef3f1;
     color: #10477b;
+}
+
+.redBtn {
+    background-color: #cc203a;
+    color: #f9c0c8;
 }
