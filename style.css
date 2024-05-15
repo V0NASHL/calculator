@@ -42,7 +42,15 @@ button {
     color: #10477b;
 }
 
+button:active {
+    background-color: #929694;
+}
+
 .redBtn {
     background-color: #cc203a;
     color: #f9c0c8;
+}
+
+.redBtn:active {
+    background-color: #7d1122;
 }
