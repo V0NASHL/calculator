@@ -1,3 +1,7 @@
+body {
+    background-color: burlywood;
+}
+
 .container {
     margin: 10vh auto;
     width: 450px;
