@@ -59,4 +59,7 @@ function calcEquals() {
         }
         
     }
+
+    firstNum = result
+    secondNumArray = []
 }
