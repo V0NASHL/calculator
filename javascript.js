@@ -36,6 +36,7 @@ function clrDisplay() {
     result = 0
     numArray = []
     secondNumArray = []
+    display.style.textAlign = "right";
 }
 
 function calcEquals() {
@@ -50,6 +51,7 @@ function calcEquals() {
         display.value = result
     } else if (operation === '/'){
         if(secondNum === 0) {
+            display.style.textAlign = "center";
             display.value = "ಠ_ಠ"
         } else {
             result = firstNum / secondNum
