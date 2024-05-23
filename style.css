@@ -27,7 +27,7 @@ input {
 
 .buttons {
     margin: auto;
-    width: 450px;
+    width: 465px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
